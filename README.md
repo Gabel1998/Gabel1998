@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi there, I'm Andreas
 
-<!--
-**Gabel1998/Gabel1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Datamatiker Student at Copenhagen School of Design and Technology (KEA)
+- IT @ Københavns Kommune
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an IT student evolving from operations into DevOps and infrastructure automation.
+
+- Started in IT operations managing infrastructure and daily support — now moving into 
+  automation, containerization, and building scalable systems.
+- Strong focus on practical solutions: if it can be automated, it should be.
+
+
+- DevOps & container orchestration (Docker, Kubernetes)
+- Infrastructure automation & CI/CD pipelines
+- Linux system administration & scripting
+- Backend development (Java · Spring Boot · MySQL)
+- Building tools and workflows that eliminate manual work
+
+🧰 Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,ubuntu,bash,git,github,githubactions" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,selenium,js,python" />
+</p>
