@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Andreas</h1>
 <h4 align="center">
-  • Datamatiker Student at <a href="https://www.kea.dk">Copenhagen School of Design and Technology (KEA)</a><br>
+  • Computer Science Student at <a href="https://www.kea.dk">Copenhagen School of Design and Technology (KEA)</a><br>
   • IT Operations at <a href="https://www.kk.dk">Københavns Kommune</a>
 </h4>
 
