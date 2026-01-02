@@ -41,8 +41,8 @@
 
 | Project | Status | Description |
 |:--|:--:|:--|
-| 🕸️ **Web Crawler** | 🟢 [Active](link) | KEA exam project: Hierarchical web crawler with Spring Boot, MySQL, and D3.js visualization |
-| 🐧 **Linux Automation** | 🔧 [Ongoing] | Scripts for Ubuntu loaner PC management: printer drivers, USB detection, passwordless login |
+| 🕸️ **Portfolio Project** | 🟢 [Active](algenordportfolio.dk) | KEA exam project: Portfolio website with Spring Boot, MySQL, and SPA with js |
+| 🐧 **Linux Automation** | 🔧 [Ongoing] | Scripts for Ubuntu loaner PC management: printer drivers, USB detection, passwordless login, remote controlled service |
 | ⚙️ **Infrastructure Tools** | 🔨 [Building] | Internal automation tools for IT operations at Københavns Kommune |
 
 ---
@@ -62,7 +62,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/DIN_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-DitNavn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:din@email.dk"><img src="https://img.shields.io/badge/Email-din@email.dk-2A2A2A?style=for-the-badge" /></a>
+  <a href="mailto:andreassgabel@hotmail.com"><img src="https://img.shields.io/badge/andreassgabel@hotmail.com-2A2A2A?style=for-the-badge" /></a>
 </p>
 
 <p align="center"><i>If it can be automated, it should be.</i></p>
