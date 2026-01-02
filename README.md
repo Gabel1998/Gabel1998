@@ -8,11 +8,23 @@
 
 ### 🧠 About
 
-<h4 align="center"><em>I'm an IT student evolving from operations into <strong>DevOps and infrastructure automation</strong>.</em></h4>
+<h4 align="center">
+  <em>I'm an IT student transitioning from operations into <strong>DevOps and infrastructure automation</strong>.</em>
+</h4>
 
 <ul>
-  <li><em>At <strong>Københavns Kommune</strong>, I manage Linux-based infrastructure, handle daily IT operations, automate system deployments, and build tools that eliminate manual work.</em></li>
-  <li><em>Started in IT support — now moving into containerization, orchestration, and building scalable backend systems.</em></li>
+  <li>
+    <em>
+      At <strong>Københavns Kommune</strong>, I work with Linux-based infrastructure, daily IT operations,
+      system automation, and tooling that removes manual and repetitive work.
+    </em>
+  </li>
+  <li>
+    <em>
+      I started in IT support and operations and am now moving deeper into containerization,
+      orchestration, CI/CD, and scalable backend systems.
+    </em>
+  </li>
 </ul>
 
 ---
@@ -23,7 +35,7 @@
 - Infrastructure automation & CI/CD pipelines  
 - Linux system administration & scripting  
 - Backend development (Java • Spring Boot • MySQL)  
-- Building systems that scale and workflows that work
+- Designing systems that scale and workflows that last  
 
 ---
 
@@ -41,9 +53,9 @@
 
 | Project | Status | Description |
 |:--|:--:|:--|
-| 🕸️ **Portfolio Project** | 🟢 [Active](algenordportfolio.dk) | KEA exam project: Portfolio website with Spring Boot, MySQL, and SPA with js |
-| 🐧 **Linux Automation** | 🔧 [Ongoing] | Scripts for Ubuntu loaner PC management: printer drivers, USB detection, passwordless login, remote controlled service |
-| ⚙️ **Infrastructure Tools** | 🔨 [Building] | Internal automation tools for IT operations at Københavns Kommune |
+| 🕸️ **Portfolio Project** | 🟢 [Active](https://algenordportfolio.dk) | KEA exam project: Portfolio website using Spring Boot, MySQL, and a JavaScript-based SPA |
+| 🐧 **Linux Automation** | 🔧 Ongoing | Automation scripts for Ubuntu loaner PCs: printer drivers, USB detection, passwordless login, and remote service control |
+| ⚙️ **Infrastructure Tools** | 🔨 Building | Internal automation and tooling for IT operations at Københavns Kommune |
 
 ---
 
@@ -51,18 +63,19 @@
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats-eight.vercel.app?user=DIT_GITHUB_BRUGERNAVN&theme=github-dark&hide_border=true"
+    src="https://github-readme-streak-stats-eight.vercel.app?user=gabel1998&theme=github-dark&hide_border=true"
     alt="GitHub streak"
   />
 </p>
 
 ---
 
-### 🌍 Connect
+### 🌍 Contact
 
 <p align="center">
-  <a href="https://linkedin.com/in/DIN_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-DitNavn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:andreassgabel@hotmail.com"><img src="https://img.shields.io/badge/andreassgabel@hotmail.com-2A2A2A?style=for-the-badge" /></a>
+  <a href="mailto:andreassgabel@hotmail.com">
+    <img src="https://img.shields.io/badge/andreassgabel@hotmail.com-2A2A2A?style=for-the-badge" />
+  </a>
 </p>
 
 <p align="center"><i>If it can be automated, it should be.</i></p>
