@@ -52,7 +52,7 @@
 ### 🚀 Current Projects
 
 | Project | Status | Description |
-|:--|:--:|:--|
+|:---|:--:|:--|
 | 🕸️ **Portfolio Project** | 🟢 [Active](https://algenordportfolio.dk) | KEA exam project: Portfolio website using Spring Boot, MySQL, and a JavaScript-based SPA |
 | 🕸️ **"Raid Fines" Project** | 🟢 [Active](https://olinescrups.dk) | : Penalty Box website using Spring Boot, MySQL, and a JavaScript-based SPA |
 | 🐧 **Linux Automation** | 🔧 Ongoing | Automation scripts for Ubuntu loaner PCs: printer drivers, USB detection, passwordless login, and remote service control |
